@@ -9,4 +9,15 @@
 <br />
 
 
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+
  *🔭 Atualmente desenvolvendo um artigo científico sobre Dublin Core* <br />
+ *🍭 Bolsista de Iniciação Cientifíca e Extensão* <br />
+ *🍥 Interesse em automação, linguagens formais e sistemas embarcados* <br />
+ 
+ <h3> 🤝🏻 Connect with Me </h3>
+
+ *🌸 Discord: juliallorent#4967* <br />
