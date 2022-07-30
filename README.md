@@ -9,7 +9,6 @@
 </h3>
 
  
- *🔭 Atualmente desenvolvendo um artigo científico sobre Dublin Core* <br />
  *🍭 Bolsista de Iniciação Cientifíca e Extensão* <br />
  *🍥 Interesse em automação, linguagens formais e sistemas embarcados* <br />
  <p align="center"> <h3> 🤝🏻 Connect with Me </h3>
