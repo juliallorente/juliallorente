@@ -5,10 +5,6 @@
   <img width="350" src="https://user-images.githubusercontent.com/80781242/173729159-8d9dcfe5-1279-4a1d-9787-0ebaeec6ab51.gif" alt="Material Bread logo">
 </p>
 
-<p align="center">
-  <img width="350" src="https://media.giphy.com/media/7If273V6wBqbm/giphy.gif
-" alt="Material Bread logo">
-</p>
 
  <h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> A little more about me...   
 </h3>
