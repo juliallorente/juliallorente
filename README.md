@@ -5,9 +5,12 @@
   <img width="350" src="https://user-images.githubusercontent.com/80781242/173729159-8d9dcfe5-1279-4a1d-9787-0ebaeec6ab51.gif" alt="Material Bread logo">
 </p>
 
+
+https://github-readme-streak-stats.herokuapp.com/?user={juliallorente}
+
+
  <h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> A little more about me...   
 </h3>
-
  
  *🍭 Bolsista de Iniciação Cientifíca e Extensão* <br />
  *🍥 Interesse em automação, linguagens formais e sistemas embarcados* <br />
