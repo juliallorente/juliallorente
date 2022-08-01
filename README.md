@@ -6,9 +6,6 @@
 </p>
 
 
-https://github-readme-streak-stats.herokuapp.com/?user={juliallorente}
-
-
  <h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> A little more about me...   
 </h3>
  
