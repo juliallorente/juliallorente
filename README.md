@@ -10,7 +10,6 @@
 </h3>
  
  *🍭 Bolsista de Iniciação Cientifíca e Extensão* <br />
- *🍥 Interesse em automação, linguagens formais e sistemas embarcados* <br />
  <p align="center"> <h3> 🤝🏻 Connect with Me </h3>
 
  *🌸 Discord: juliallorent#4967* <br />
